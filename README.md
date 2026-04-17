@@ -64,11 +64,11 @@ Working with messy real-world datasets, finding meaningful patterns, and telling
 
 ## A few things about me
 
-- 🍵 Tea over coffee. Always. Non-negotiable.
+
 - 📖 I read about tech trends before bed — yes, really
 - 🌍 I think AI can help solve some of the world's hardest problems
 - 🎨 Good design matters just as much as good code
-- 🤝 I love connecting with other learners on the same journey
+
 
 ---
 
